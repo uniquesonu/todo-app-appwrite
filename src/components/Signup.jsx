@@ -80,7 +80,6 @@ const Signup = () => {
         <Link to={"/login"}  className="link">Login Instead</Link>
        </span>
       </div>
-      {name}{email}{password}
     </div>
   </div>
 </div>
